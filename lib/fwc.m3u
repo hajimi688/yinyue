@@ -1,0 +1,47 @@
+#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml"
+#EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
+https://cdn.jsdelivr.net/gh/iptvorganization/first/media.m3u8
+#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="普通频道",cctv5
+http://82.156.243.185:36888/av3a/cctv5n.m3u8
+#EXTINF:-1 tvg-name="cctv5p" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5p.png" group-title="普通频道",cctv5p
+http://82.156.243.185:36888/av3a/cctv5pn.m3u8
+#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="普通频道",cctv16
+http://82.156.243.185:36888/av3a/cctv16n.m3u8
+#EXTINF:-1 tvg-name="cctv4k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="普通频道",cctv4k
+http://82.156.243.185:36888/av3a/cctv4kn.m3u8
+#EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="普通频道",cctv8k
+http://82.156.243.185:36888/av3a/cctv8kn.m3u8
+#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="AV3A频道",cctv5-av3a
+http://82.156.243.185:36888/av3a/cctv5.m3u8
+#EXTINF:-1 tvg-name="cctv5p" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5p.png" group-title="AV3A频道",cctv5p-av3a
+http://82.156.243.185:36888/av3a/cctv5p.m3u8
+#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="AV3A频道",cctv16-av3a
+http://82.156.243.185:36888/av3a/cctv16.m3u8
+#EXTINF:-1 tvg-name="cctv4k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="AV3A频道",cctv4k-av3a
+http://82.156.243.185:36888/av3a/cctv4k.m3u8
+#EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="AV3A频道",cctv8k-av3a
+http://82.156.243.185:36888/av3a/cctv8k.m3u8
+#EXTINF:-1 tvg-name="Senegal v. Irak" group-title="4K杜比视界世界杯正赛",Senegal v. Irak_2026-06-27 02:40:00_1782499200000
+https://cdn.99998888.cc/event/be151e8c-369c-32c5-84c2-9d6798ce9841?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Noruega v. Francia" group-title="4K杜比视界世界杯正赛",Noruega v. Francia_2026-06-27 02:40:00_1782499200000
+https://cdn.99998888.cc/event/11e0c966-2aff-3725-afbb-17f9fcc5f1e5?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Cabo Verde v. Arabia Saudí" group-title="4K杜比视界世界杯正赛",Cabo Verde v. Arabia Saudí_2026-06-27 07:10:00_1782515400000
+https://cdn.99998888.cc/event/e02fbb11-b2b6-313a-a5f2-4fb68a22cedd?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Uruguay v. España" group-title="4K杜比视界世界杯正赛",Uruguay v. España_2026-06-27 07:10:00_1782515400000
+https://cdn.99998888.cc/event/76522993-4ddc-3e09-928b-66493b724c6a?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Egipto v. RI de Irán" group-title="4K杜比视界世界杯正赛",Egipto v. RI de Irán_2026-06-27 10:10:00_1782526200000
+https://cdn.99998888.cc/event/4e6b5575-e0cf-340f-8f3e-70ad0f5e0877?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Nueva Zelanda v. Bélgica" group-title="4K杜比视界世界杯正赛",Nueva Zelanda v. Bélgica_2026-06-27 10:10:00_1782526200000
+https://cdn.99998888.cc/event/8e5af9f9-75c4-3b4f-95dd-94dfeaafc8fc?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Panamá v. Inglaterra" group-title="4K杜比视界世界杯正赛",Panamá v. Inglaterra_2026-06-28 04:40:00_1782592800000
+https://cdn.99998888.cc/event/700bf24d-de4d-3498-8cc5-d3c0ce958dc1?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Croacia v. Ghana" group-title="4K杜比视界世界杯正赛",Croacia v. Ghana_2026-06-28 04:40:00_1782592800000
+https://cdn.99998888.cc/event/e597335e-b90f-3068-9f4a-0e90089552b2?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Colombia v. Portugal" group-title="4K杜比视界世界杯正赛",Colombia v. Portugal_2026-06-28 07:10:00_1782601800000
+https://cdn.99998888.cc/event/f2e6feac-eaa5-3c66-b0b0-bac01972f249?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="RD del Congo v. Uzbekistán" group-title="4K杜比视界世界杯正赛",RD del Congo v. Uzbekistán_2026-06-28 07:10:00_1782601800000
+https://cdn.99998888.cc/event/51bcbf42-4f43-3809-9c82-d17aca625413?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Argelia v. Austria" group-title="4K杜比视界世界杯正赛",Argelia v. Austria_2026-06-28 09:40:00_1782610800000
+https://cdn.99998888.cc/event/eb7d7edb-6a10-38c0-927c-d454b8a7e885?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Jordania v. Argentina" group-title="4K杜比视界世界杯正赛",Jordania v. Argentina_2026-06-28 09:40:00_1782610800000
+https://cdn.99998888.cc/event/e4b0d05f-6af6-3da0-b026-c633887703d2?prefix=https://cdn.99998888.cc

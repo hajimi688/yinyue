@@ -1,0 +1,43 @@
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml" url-tvg="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-logo="https://www.catvod.com/logo.png" group-title="公告通知",📢 温馨提示：遇到播放失败请刷新列表
+https://www.catvod.com/backup.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/360.jpg?v=1780171883879" group-title="世界杯",🔴 佛得角 vs 沙特阿拉伯 [世界杯]-(咪咕2)
+http://iptv.catvod.com/kf/catvod_com?token=3Tb2unEwkejBqenRnjwZz7EkNARuCf4ln7MXrexicVtL4giwNZ72K4m6lhnzR_FrZJVEk8zqQUi4fxp7Ltc=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/123.jpg?v=1780171883879" group-title="世界杯",🔴 乌拉圭 vs 西班牙 [世界杯]-(咪咕)
+http://iptv.catvod.com/kf/catvod_com?token=ybWduvdYPS-lEO49YiI1EtSK1Qrd6vJvi08SExbVLicSr_02Kculzlc6_-LBKjmLcDBZ4f3Q2xUMIlwShe4=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2222.jpg?v=1780171883879" group-title="世界杯",🔴 乌拉圭 vs 西班牙 [世界杯]-(CCTV5)
+http://iptv.catvod.com/kf/catvod_com?token=SGH4FkzNMi7bUz3dJ0db1d1SWr1wQYFHfWAt5g4IcA23o_7WkPejzDv-dVXsgG_dKHEZrnmaI1wim8sFe1x0hzZw5SagDr0=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/618.jpg?v=1780171883879" group-title="世界杯",🔴 佛得角 vs 沙特阿拉伯 [世界杯]-(CCTV5+)
+http://iptv.catvod.com/kf/catvod_com?token=HdiF9EjXdle7UnNJM8j0d1WKujQuh0JvMy2g8PqBCt81H9khbC0OmWiTLxeD6GbVzAMB87WNzLM0q86RU_b84f5k2bv6BxU=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/3333.jpg?v=1780171883879" group-title="世界杯",🔴 乌拉圭 vs 西班牙 [世界杯]-(小红书)
+http://iptv.catvod.com/kf/catvod_com?token=0u0LQFkcwCWnVqmuLswx6NVAvYWJlGWYcnFnMFDHXeh_9rL2ODIVRzoDAxcLKSjAtVWEYEd8LOyn7GpK8o1FqgCMlYWW
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/321.jpg?v=1780171883879" group-title="世界杯",🔴 乌拉圭 vs 西班牙 [世界杯]-(ELTA2)
+http://iptv.catvod.com/kf/catvod_com?token=Bkn4KB6xRDJdBcTREnvM7EiMto2l9NsoqgMqvijTwa2GpwEpxZbQhClHbJd-l2nzLImbZ7z_CtKJ4Ghx16dnErrWtOWpMnc=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/222.jpg?v=1780171883879" group-title="世界杯",🔴 佛得角 vs 沙特阿拉伯 [世界杯]-(小红书2)
+http://iptv.catvod.com/kf/catvod_com?token=uWchsgU4inIsvp-buANBe5RZEYSpp2hrK90A79n06guBnkSZoR5d5FEH51CObAFrkq8ONOhcadunzsmx6WvZRy7tcQDP
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2026.jpg?v=1780171883879" group-title="世界杯",🔴 佛得角 vs 沙特阿拉伯 [世界杯]-(ELTA体育)
+http://iptv.catvod.com/kf/catvod_com?token=VOywWk5aq4_wUp7ekTdr5tlWi5TaiWQImcYh6rkU9dmm4hDcj6Hv7m3Tw26nCkLLeVWjN8H-czx_Sc9F-tXKIt0jDLMMRhE=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="WNBA",🔴 女武神 vs 梦想 [WNBA]-(直播7)
+http://iptv.catvod.com/kf/catvod_com?token=0byYNbFhQ9aI9FNS4KODqluo9srZreAp6NJ3QdC3bFUjtCXNa1Rk0gqlahrQRk4Pc_xsIFejsbLp2uWSoM-5VGjoP7A=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1011.jpg?v=1780171883879" group-title="新西兰中",🔴 米拉马尔流浪者 vs 岛湾联 [新西兰中]-(直播11)
+http://iptv.catvod.com/kf/catvod_com?token=aRcFPkNLpgzwcn-hlp06Pgm3dEJjMXuGup0mqclJSiyIKKIW1hRQBkCYxhHAgkL0WKhATBGecFxVG8UWL0ZNQzeS-0c=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1012.jpg?v=1780171883879" group-title="新西兰中",🔴 上哈特市 vs 卡洛里 [新西兰中]-(直播12)
+http://iptv.catvod.com/kf/catvod_com?token=UMJjsa26pP3F0p87Tk5dOfyEY55LB5wtvXm_dKvV2yuW8Sh-dBfEOpJFcZh_TIzPEoeE2iZiEu4pcglW8CRzT0WOUlA=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1013.jpg?v=1780171883879" group-title="新西兰中",🔴 佩托内 vs 惠灵顿凤凰后备队 [新西兰中]-(直播13)
+http://iptv.catvod.com/kf/catvod_com?token=ITVf2dvRIbns4c52FSMqSTu1Y2AuH9gTJa_wk8-yIP42C4tEfU5nvm8TgXkgREmiRqXkFsb8oOftU7O_pqoHXZqUdT0=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="新西北联",🔴 奥林匹克湾 vs 芬奇布尔斯联 [新西北联]-(直播14)
+http://iptv.catvod.com/kf/catvod_com?token=rmzThdHGA0NZFKGlVs5weif9Jp1jHC1vNvBIOMkHFJkk0OhAIQKP0y45brbg6HIi6-I4WY5zlcdLwsnayScw7-NGw3k=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1016.jpg?v=1780171883879" group-title="澳首U23",🔴 康纳骑士U23 vs 堪培拉奥林匹克会U23 [澳首U23]-(直播16)
+http://iptv.catvod.com/kf/catvod_com?token=sTh4DBaBOjbHxm4iFoWNxhv5cGhkPD6b9beWI-Pxd0q0MzCxlgBrY_VLXHGOjMWU0rhiJ0_P6nn5KO4etHxi4zHAAYM=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1021.jpg?v=1780171883879" group-title="澳塔女超",🔴 德文波特前锋女足 vs 朗赛斯顿城女足 [澳塔女超]-(直播21)
+http://iptv.catvod.com/kf/catvod_com?token=7_6SNN87ZTIE85tP5CsmSBhYmPeyu6hlccj9dt3K1P6PLH3zPdxRpsVzd2w-5FyWaV2SIQ9uSy-3Afxs-Hw5iEwJQ4o=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1202.jpg?v=1780171883879" group-title="WNBA",🔴 女武神 vs 梦想 [WNBA]-(原声2)
+http://iptv.catvod.com/kf/catvod_com?token=_xGQd7y2OjzAEXI65jN7Vn5_3sZDKslqI3SAMRlAfHPUUEkS2NKq5rVlLtF-dT-ecMct9dNTkAkno17DqzU7yuCCia2smGCfTpk0ksXK3_X-byI06moDrKqCoJlDGI_TUiqro1S-HEaiE-CJw5WkhoJKnkYxHdX6TLgtzrxLJHHeiJO4e2CJJ8M=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1235.jpg?v=1780171883879" group-title="新西兰中",🔴 米拉马尔流浪者 vs 岛湾联 [新西兰中]-(原声35)
+http://iptv.catvod.com/kf/catvod_com?token=LWMT1QRCDyCZc7yJ1ABB8tM5zjwHl1GWoN3JGkUJhVcUNMuLzV2fcGzafcOsnHlZqC1iPzbkH59n0FD0HQwmijL6j2cf_TTqr2hQ1Oozq-3QLcwned8CzIT4FDpMOAaDVr0wembIelvISCsc7k2fLRDFwGmRugvasDbpexsknMcREf-I7Eg=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1236.jpg?v=1780171883879" group-title="新西兰中",🔴 上哈特市 vs 卡洛里 [新西兰中]-(原声36)
+http://iptv.catvod.com/kf/catvod_com?token=fddYplHunN5SBU1F5VIFBhHEvubsdLQPPfJOJTVg8zN6zh3Aj0Y0c0TRLeELKHiSdTpfUqLDiVD-Zwe8YA_5MMy8RuXXKE30eEdJjZuTvVL4f38eYMdo99RPh82npvPgPQZzbEqcyoSjDfCX0B3t1jqUJ-39uub6r5VgufDYknpYTG9rt2M=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1239.jpg?v=1780171883879" group-title="新西兰中",🔴 佩托内 vs 惠灵顿凤凰后备队 [新西兰中]-(原声39)
+http://iptv.catvod.com/kf/catvod_com?token=YWSFlrJuCVYgZjIxAv5ynKEZ3Ara4pa94oR4U0shO5MaEUli6oggasOIBysLTdGz6NJ_yMBcfLhrAxBqQbNZyHX0YtKh0JS9f1fRyFEHZwCnea-PI5KIpUB_NSlC0GGngFbTncRuDn5J_4527IqZwKziblj95LT5e0P8K3O9i-4W7g3v73Q=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1305.jpg?v=1780171883879" group-title="澳塔女超",🔴 德文波特前锋女足 vs 朗赛斯顿城女足 [澳塔女超]-(原声105)
+http://iptv.catvod.com/kf/catvod_com?token=FnDvKP4E7iivu95Z4Vrg5LJEE66cr16691kNOETDFQItYB_ywJyRGc3C4BEzPpqgqkTL0O9h0FEg6gvN1pYimovpdqi5AoDPaQday23TXFukneS718N10vIlmpCfks5gKWnzlYhUfW21d8AHF2QoE7tI0Oue-qV16rnhFje8-QhWIP4Ghe4=
